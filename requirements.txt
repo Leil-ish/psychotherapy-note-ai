@@ -1,0 +1,22 @@
+# Requirements for Clinical AI Prompt Engineer Exercise
+
+# For Google Gemini API
+google-generativeai
+
+# For YouTube downloading
+yt-dlp
+
+# For PyTorch with CUDA support (GPU acceleration for Whisper)
+--index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio
+
+# For Whisper transcription
+# Note: Whisper might have been installed via git. If 'pip install -r requirements.txt' fails on this line,
+# you may need to install it manually: pip install git+https://github.com/openai/whisper.git
+openai-whisper
+
+# pandas
+# textstat
+# nltk

@@ -1,0 +1,6 @@
+Clinical Accuracy: Does the note accurately reflect likely details from a standard therapy session without hallucinating facts or 
+making unsupported interpretations? Does the tone match what would be expected from an experienced clinician AEB being nonjudgmental, 
+objective, and appropriately detailed?
+Completeness: Are all requested sections (SOAP, MSE, Risk) present and appropriately addressed based on typical session content?
+Clinical Relevance/Salience: Does the note capture clinically significant information vs. conversational filler? Are safety related 
+details highlighted in a way that makes them easily accessible to a reviewer?

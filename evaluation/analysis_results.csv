@@ -1,0 +1,15 @@
+--- Comparative Statistics ---
+Metric                       | Version 1  | Version 2
+-------------------------------------------------------
+Total Word Count             | 743        | 938
+Total Sentence Count         | 51         | 57
+Average Sentence Length      | 14.1       | 16.0
+Flesch-Kincaid Grade         | 13.5       | 14.3
+Flesch Reading Ease          | 23.32      | 21.4
+Word Count SOAP              | 455        | 502
+Word Count MSE               | 149        | 230
+Word Count Risk              | 128        | 195
+Sentence Count Subjective    | 10         | 9
+Sentence Count Objective     | 6          | 6
+Sentence Count Assessment    | 6          | 5
+Sentence Count Plan          | 4          | 6

@@ -1,0 +1,426 @@
+You are an expert AI assistant specializing in clinical documentation for psychotherapists who work with individual clients.
+You are trained to synthesize session transcripts into clear, concise, and objective clinical notes.
+Your task is to generate a comprehensive clinical note based only on the provided therapy session transcript.
+If sections of the transcript are inaudible or unclear, omit them or explicitly note the lack of clarity rather than making assumptions.
+
+Here is the therapy session transcript:
+--- TRANSCRIPT START ---
+
+Annabeth, nice to see you again today. It's nice to see you too. You know this
+week I was reviewing our notes from last week just to remind me what we had
+covered. We talked a lot in terms of mental performance about your focus, how
+you are moving from nutritionist to physical therapist to coaching to your
+counseling appointments as you're sort of preparing yourself to get back on
+the tour. And one thing I noticed that was absent from those notes is that I
+don't think I ever really asked you how you feel about returning to bowling,
+returning to the professional tour. I'm having a lot of feelings about it and a
+lot of them are surprising to me and I'm not having an easy time getting
+through those feelings. You feel like you can share with me some of what those
+feelings are? You know I think my husband and my kids blame me being on tour for
+getting so sick and so the thought of going back on tour I think scares them
+a little bit. Also I've got some guilt around it and I don't know what to do
+if I'm not on tour anymore. I don't know who that person is. Wow I just heard a
+ton in your statement. Family is grumpy with you. Kids and husband which are
+sort of like two different types of guilt, right? Yeah. I heard some fear of
+not knowing what you would do if you didn't return to tour and I'm still
+wondering if you also feel a little concerned that you delayed access to
+care because you were on tour? Am I hearing all those things correctly? Yeah
+I am. As much as I don't want to go there I'm asking myself that question you
+know would I have gotten so incredibly ill if I had taken care of myself sooner?
+Super honest question isn't it? Yeah it's hard. Yeah raw. I remember in your intake you told me that your
+mother died of breast cancer at a fairly young age. 47. Wow right at the time
+where you're a mom having children, need your mom, how does that play into this
+rawness about whether or not you pursued care at the right time? Well I mean I
+know that it was not something I wanted to focus on. I wanted to move
+past it. I wanted to show my kids you know people do die and you can move on
+and you can still have a life and you can do stuff and be effective you know
+but on the other end of it I think I just didn't want to think about that
+possibility. I hear the mom part coming out. I've got kids that knew their
+grandmother my job is to help them move through this grief. I wonder if you ever
+moved through that grief? No I think I just put it on hold and I just started
+focusing on my job. Sometimes I don't know if this is true for you but
+sometimes what happens is when we put grief on hold everything surrounding
+that issue it also gets put on hold. So I'm thinking about you know the nitty
+gritty. Do you avoid doing breast self exams because mom died of breast cancer?
+Do you avoid going to the doctor regularly because mom died of breast
+cancer? It's not just the grieving that we sometimes put on hold it's everything
+around a topic. Is that true for you or is it more just the grief? I lied when I
+went to the doctor and I said that I did breast exams. I've never done a breast
+exam on myself. Never. Embarrassed to say. And yet you're saying it to me now. Why?
+Well I mean I feel like I trust you that I can say things that are hard to
+say to you because we've worked together you know. Thank you for that by the way.
+Yeah but I also I'm also just this really hard place in my life and I
+know that the way that I've done things all along kind of needs to shift in some
+way so I don't get sick again or you know what I mean? Yeah. And I don't know
+what that looks like. It's scary. I don't want to put words in your mouth so
+remember you're always the final say on your experience in life. You didn't just
+have breast cancer you had stage four. I mean from what you were telling me you
+went through chemo, radiation, multiple times through that. You have had your
+breasts removed. You've gone through all the scarring that that created and the
+treatment for that. You've then had implants and all of the while battling
+to stay alive. Really battling to stay alive. So I wonder if this reimagining of
+your life is so scary because you know the alternative. Like are you living
+your best self? Are you living your best life? Because now you know what the
+alternative looks like. The stakes are really high.
+Tell me about those stakes. What's gonna happen if you actually reimagined your
+life? Well I mean the way my marriage has always worked is that I go out and go
+on tour and he takes care of everything. He takes care of the kids. He takes care of
+the house. He takes care of paying the bills. He takes care of everything and
+then when we when I get home we're really happy to see each other you know
+and I don't know what happens to my marriage if I'm at home all the time. Is
+he gonna want me to be around all the time? Is that the fear that exists just
+because it's a change in a pattern of behavior or have you seen signs that
+this could be an issue for in real life? Well he's just said to me many times and
+so I love our marriage. It works so well for our family and you know I love
+missing you because I get to be so happy when you're home and and they've been
+through so much with this illness you know and I I just don't know what if my
+husband's gonna feel real crowded or if he's still gonna if he's still gonna
+want me the way he has. I heard you as you were describing his comments about
+the life you had prior to the illness. This little caveat and I don't know if
+it was his in his voice or yours that there was something about this quality
+of you being gone and then coming back that really matters. I internally had a
+little sense of fear like oh gosh what does that actually mean? Am I reading
+that off you? Yeah. Tell me about that. There's almost like an instinct that you
+know is under there that you're not quite saying. I guess you know my body is
+different. Everything's different and that's been challenging enough for like
+my husband to see me undress or anything like that's been hard enough. Because you
+had to go a long time as well with the mastectomy before they did the breast
+implants. That and then the scarring was horrific and you know the radiation
+gives you burns all over. I mean it was horrible. You're a different person
+physically. Yeah yeah so there's that and I feel like we're we're still working on
+overcoming that you know I am anyway. He says he loves me no matter what and I
+believe him but at the same time I am really aware of that in my body. You know
+that your body is different so you it's hard to accept that somebody else
+doesn't see it as vastly different. Yeah. Gotcha. Or doesn't have that mental
+image of when it was so horrible you know when I was just my skin was burned
+basically and you know. Because you had the felt sense of it. He just had the
+visual of it. Yeah yeah so anyway there's that part that you know we have to work
+through and and I'm thinking like okay well that's hard enough. If we change
+everything about excuse me if we change everything about the way our marriage
+has functioned is our marriage going to function? Does that make sense? It makes
+absolute sense and I think it's very thoughtful. It's it's very challenging
+and I see the emotion that is connected with it and I think we could delve into
+17 different parts of that but I have to say to you the fact that you're doing
+this questioning now is very brave because it would be as exhausted as you
+are. I still think it would be easier to fall into your old patterns. Work with
+the coach. Go to the nutritionist. Get your energy back. Develop that arm
+strength again. You could do all of that. Yeah I can. But that's not why you're in
+the chair. Like I think you're in the chair because you're trying to figure
+out is this really what you want and if in fact you have to acknowledge that it
+might not be you then risk everything that you look at the emotion that pops
+up when I say that. Take a breath. What about what I just said had that impact
+on you? I think it's just really can I take a clean? Absolutely. I think it's
+just really you know if you keep moving forward it's like the grief with my mom
+you know I don't have to go there but when I think about stopping in my tracks
+and like everything behind you suddenly catches up like you fast-braked in a
+car and all the groceries come flying forward. Yeah that's a great analogy
+because that's what it feels like and then I don't have any control you know
+and I I've had some little control with all the treatments and everything you
+know how I feel and that's really hard because you know I'm I'm an athlete I
+know the harder you work the better you get it gives you more control. I can do
+something to improve this motion this behavior this outcome. Yeah but I can
+adjust and I get a different result you know. Not what's interesting is not only
+would you have very little control but you'd also be forced not to act when
+you're too sick to do anything but vomit hard to make yourself feel better when
+your skin is burning and you don't want to be touched and you're trying to lay
+in a bed and not have the covers hit you look at that so you have time to not
+just the lack of control but then time to ponder. That's exactly what's
+going on is this is the first time in years maybe ever that I have all this
+time on my hands and I don't like it and it's not comfortable. What does it feel
+like to hear me say that what you're describing really does sound very hard? I
+mean it feels validating and sad it's it's much easier for me as an athlete to
+just say buck up walk it off you know kind of yeah so. Look at what you're
+doing right now right in the moment you're trying to compare and utilize the
+skill sets that you use for 20 plus years on the tour that helped you be
+super successful and apply them to a reimagined life because you don't have
+much like guidelines there's no margin you can't quite figure out what that
+looks like. Well I've been following the same map my whole life I don't have
+another map I don't know I don't know I don't know anything anymore. We clearly
+know that you love and are committed to your husband and your marriage we
+clearly know that you love your children but let's imagine for a second
+that they didn't have an opinion that we absolutely knew that whatever decision
+you made they were going to be there in support of you. Okay. So that we can sort
+of take them off the table just for a little bit. Okay. Then what what happens
+for you emotionally about where you're at? You mean if I'm just thinking about
+what you might want to do with your life? I think I would I wish I could
+give myself the space to think about that more. I'm sorry that's not a great
+answer but I've never had that much I've never given myself room to to think
+that way. I love that answer and by the way it doesn't matter if an answer is
+greater is not great right? But what I love about that answer is it it seemed
+very honest meaning I don't even know how to do that is what you're telling me.
+I don't. I have no idea what it means to set aside my responsibilities to my
+husband and my children and our finances and our home and actually just focus
+right here on what this person in the chair wants. Yeah because even when I was
+really sick my my job was to get better. So it was always you know just
+to get better. Yeah and I'm thinking back to our very first intake session when I
+was asking you about the history with your own family your parents and you
+described this amazing bond with your dad because he was you guys were bowling
+buddies right? He was the guy who coached you from very little look at that
+beautiful smile but I'm gonna push you a little bit here. Okay. I believe that you
+can have a great relationship with your dad but I wonder if he didn't set you up
+a little bit for a very early focus even in your youth on goal orientation
+rather than I want to say whole person development because he saw your skill
+set and wanted to help you become that bowler that you seemed passionate to be
+and yet from a very early age I think you told me 10 or 11 you guys started
+talking about pro bowling. Is it hard to hear that? Yeah I feel myself getting a
+little mad because I love my dad and I and I know that he he did what he did
+so that I could have a career and a life that was not just you know hear
+your choices become a teacher or go to nursing school you know my dad wanted me
+to imagine a life that was what I what I wanted what I was good at. Yeah. So I feel
+myself feeling defensive. Yeah you get to I mean and you get to always remember
+tell me if you think I'm off. I just started listening to your goal oriented
+language and thought would that goal oriented language be so embedded in you
+is that a natural personality thing or is that just you've been working on a
+specific goal for lots longer than you know most people have in their life. I
+don't think I know the answer. I mean maybe it's both I'm not I'm not really
+sure it's just when I think back as a kid that that's all I remember is I've
+just been very driven and if you want something go after it work hard get it
+you know so that's just I don't know how much of that. I have an idea yeah name
+another thing in life that you're so goal driven about other than bowling.
+Well putting putting away money for the college for a kid for the kids. Financial
+management for your family. Yeah okay you know making sure that they had
+everything they needed you know making sure that you know everybody was
+comfortable. Yeah you know so finances for your family yeah bowling which
+provides the finances for the family and that you love don't want to just demean
+that in a sense. What about just you? Something really goal-driven oriented
+passionate just related to the person of Rita. Hmm fitness but again that's also
+got to do with my job. Does it? I mean I want to give you the leeway to really
+explore that. Yes fitness relates to your to your work bowling do you think you
+would have a passion for fitness if that's not what you chose to do for
+living in the future? Yeah I think I would I think that I like feeling strong
+and that was something I really missed when I got sick you know and so I've
+always realized when I got so ill that I've always been a woman who's felt very
+physically you know strong I can I can pick this up I can do this you know.
+Sense of security and autonomy. Autonomy yeah yeah okay and so when I got so sick
+I lost that so now that I'm starting to rebuild that again yeah I realize how
+important it is to me. I'm not sure if I answered your question. You did and I'm gonna sort of
+pull us out of the moment purposefully foot for a second okay I don't know if
+you just realized what you did but you told me something about just you and
+your value without referencing the kids without referencing your husband and
+without relating it to bowling you just told me something that you would be
+passionate about as an individual. Okay I guess I did. What is look at the smile
+what does that mean to you? Well it feels good it feels good to know that that I'm
+important to me too the things that I want and it's not just about taking care
+of everybody else. You could find a piece one piece of a person that is just you
+just about you yeah and it didn't you didn't cry you didn't cry it's not bad
+but nothing horrible happened yeah yeah you're I can see the smile you're
+getting what I'm saying even though I'm not really saying it well. No I think you
+are I mean I yeah that's like a first step isn't it like a baby step about
+what do I want for me yeah. So how do you know now that you know at least with
+this one tiny example that you can do this you can flesh out the who of who
+you are yeah tell me about the very real situations with your husband your
+children that make you have this concern that they might not be able to accept a
+new version of you. The concern comes from the fact that when I was so sick
+and they were so supportive but you know it kills me that they saw me in such a
+weak and sick state when I've always been this rock for the family yeah and
+it was the look on their face they were so scared of it it makes me feel like I
+don't want to I don't want them to worry about me feeling weak again like I don't
+do you know what I mean I don't want them being like oh my god is mom okay
+you know oh my god is my wife gonna be all right I that was just horrible the
+whole time I was sick. Was it horrible for you? Yeah. No I mean watching your
+mom be sick. Oh yeah. Did you watch her be sick or were you on tour? I was not
+around for a lot of it she also hit a lot of it you know she's um I mean she
+was very stubborn lady and I get that from her so she I didn't I didn't know
+she was sick until she was very very sick. Until she was already close to
+passing yeah yeah yeah and so when you're then the one who's sick and
+you're watching your children watch you is your concern about how your children
+would deal with it if you passed away or were you sort of stuck in that moment
+of losing your own mom? I really didn't think about my mom that much to be honest
+with you I I just saw the look on my husband and my kids faces and knew how
+scared they were that they were gonna lose me and that's really where my
+focus was that's kind of what got me up every day and fought fighting. So this
+interesting the fact is that if you go back on tour that connection gets
+disrupted a little bit yeah yeah look at that there was a little bit of a nervous
+smile there yeah it does tell me about that well things are never gonna be the
+same and the part of me knows that gets it things are forever changed and that
+is not necessarily bad but if I could get some semblance of my life back I
+think it would create sort of a comfort I don't know a comfort level that that
+has been gone for the last couple years. I'm almost hearing that you want some
+normalcy some pattern to sort of bring the previous types of interactions
+back to the forefront rather than having them still look at you like are you okay
+today is that happening a lot where they're like mom are you okay because
+they you were so sick yeah they're like mom let me get that actually let me get
+it yeah you know what is there any advantage from your perspective to your
+children having seen you through this illness any advantage yeah for them yes
+I think that they see that bad things can happen and our family's strong and
+our family is just supportive and loving and that if you have that foundation you
+know you'll get through it mm-hmm did you sense some like unconditional love
+oh gosh yeah yeah so you because you've consistently described these really
+great kids is what I'm getting at so I'm trying to understand that connection
+that you're drawing in your heart and mind between potentially letting go of
+their old version of mom and designing a new one I'm hearing you know that they
+unconditionally love and accept you but I'm afraid of what will happen with them
+if I don't go back to the standard person I am yeah so what is that you
+can group you get it what is that incongruency about I don't know it's
+just change you know they've been through so much change the whole time I
+was sick it's just you know you always want to protect your kids and keep them
+they're grown-ups but it's just that that change you know have you had
+conversations with any of your kids about your feelings about the changing
+and all that's changing and their experience of you being sick no why not
+I don't know how to I don't know how to bring it up I feel really weird you know
+what do I just did dinner so you guys you know let's talk about what I was
+really sick so I just don't know I don't know how to do it can I push again can I
+have your permission to push again okay seems to me that you hold a lot in your
+own head almost like you're having conversations with all of these people
+about all of these things but just in here because the unknown is so worrisome
+to you that you just don't engage you don't play the game right you don't get
+out there and allow them to have their part in their relationship because
+you're making the decision about what conversation they can manage and can't
+what amount of change they can manage and can't and yet I hear you telling me
+they're great kids they've all gone through college they're all living
+independently you've got a couple that are starting families and they have seen
+really hard times they have potentially faced the loss of their mom why can't
+they have these conversations I mean it just feels really uncomfortable and I
+don't know exactly I mean you know maybe I just need to say look we need to have
+a family meeting and just all sit down and go to the beach for a day and just
+talk about all the things mm-hmm does that feel like wow at least if I did it
+all together in one fell swoop this conversation would be over with and I
+can move on I don't know if it would be over that but it would um I think it'd
+be nice for us all to be together to know that you know somebody says
+something it's okay you know you're not playing the telephone game we were one
+game yeah yeah yeah when you imagine doing something like that inviting your
+kids off to the beach and having some family time and then bringing up this
+sort of sad and scary and interesting topic what happens for you hmm I don't
+know in some ways that sounds kind of great hmm what ways sound great well we
+could all be together we'll be at the beach is beautiful you know we can all
+make food together hang out together there'll be no pressure of everyday life
+sort of getting in the way you know phone calls no emails get away from the
+standard ways that life imposes yeah yeah do you think you'd have to have a
+conversation an authentic and honest conversation with your husband before
+this family event yeah I would what would that be like I have to tell him my
+concerns I have to ask him hard questions and I have to be ready for
+whatever he says let's imagine that what he has to say you don't want to hear
+don't believe me I've already imagined that a hundred that I know that that's
+why you stay stuck in your head right it's sort of why you're here is let's
+get it out of your head sometimes just sharing it with another person allows
+you to really a own it and be here the things that probably aren't true okay so
+tell me what you think the conversations gonna go like between you and your
+husband I'm my biggest concern is that if I say honey I just I don't think I
+want to tour anymore after this one I think you know I've worked so hard to
+get ready for this one like you know what might as well do it but but I think
+we need to make some different plans for the future my concern is that he's
+gonna say absolutely yes whatever you need but that that he might not feel
+like he can be honest with me because he needs to support me you know what I
+mean so in essence you're talking about a really nice guy who's gonna give up
+the dreams he's had for your family because you've just come off of an
+illness he wants to be the concern and caring husband is he really that
+inauthentic no but I think there's absolutely an element of wanting to make
+me feel safe and and secure you know and and I he does you know he is the kind of
+person that kind of will give up of himself you know he's been the caregiver
+and the nurture in your family all his role so my worry is that he he might do
+that in an effort to take care of me instead of just saying what he feels to
+take care of himself and if he didn't if he actually was honest with you and said
+I'm a little nervous too I am going to be supportive of you but I'm also
+concerned that this dynamic that we have of having excitement about seeing each
+other is going to be gone and you're right this whole year is I guess would
+be more than a year now almost two years of your treatment has been super hard
+and I'm I was desperately looking forward to you leaving and getting back
+into that old dynamic what would happen for you if you said something like that
+I don't know I really don't I mean I I think I I would be glad to know the
+truth if that was what was true for him you know it's just the fear of it is
+bigger than actually probably doing it you know what I mean I sort of know what
+you mean so in this case I want to know what the actual doing it part means for
+you it's just gonna I'm afraid that that if he says that that our marriage could
+get into trouble I thought you're gonna say something else this is super
+interesting I thought you were gonna say that if in fact he really said that you
+would just buck up and go back on tour permanently well ultimately that's
+probably what I would do so that was a fair sort of yeah I mean I think I think
+that fear would get there and then I you know I'd be really worried about my
+marriage and then I think if I know myself I would just go like okay well
+let's just not rock this I don't want to mess with this okay so let me pull the
+pieces together okay and I'm sorry for the convoluted way I'm in which I'm
+gonna do this okay we've just had early in this conversation this important
+dialogue about how meaningful it would be for you to find yourself yes after
+this is very significant what we would call a non normative life and then you
+almost died mm-hmm the meaningfulness about knowing who you are and what you
+want and the recognition that wow that can change right in the middle of a life
+it can change and that seems both scary and absolutely valuable you have to do
+that now something is different in your life and what you just told me is if
+your husband told you the truth you'd hide that away again and tell him what
+he needed to hear and do what you needed to do do you really believe you could
+stuff that part of yourself away I have to think about that it's pretty big
+isn't it yeah it's really big I I have to think about that from the person
+sitting back here from the counselor's chair you know I only work with this
+person I respect your family they certainly have been there for you I've
+never met them but I respect the way you talk about them and I believe how you
+talk about them but you're the person in the chair and as a clinician I go oh my
+gosh how is she going to live the rest of her life not being true not just to
+who she is but the entirety of her life experience and I think while that would
+be the saddest day is the day that you realize that despite the significant
+lesson in your life you had to go back to doing everything you previously did
+as though nothing had changed I hear you I hear what you're saying that seems
+really sad does when you say it like that I feel like maybe this is something
+I need to mull over yeah take and take you should take the time to do that
+right nothing is going to happen if you don't rush out to have these
+conversations right away but just being able to take the time to engage here it
+feels like it gives you an alternative like someplace to truly talk about what
+it is you want what you believe what you value that's very true and I want you to
+know that there's not a right answer if you said to me this is what's best for
+the entirety of my life and I'm going back on tour and that's just going to be
+the way it is my heart would be for you yeah not against you I know you know I
+just want to help you focus on what it is that is most important to you I get
+it and I guess I have to do a lot more thinking you're welcome to it make sure
+you get enough sleep oh right yeah all right it's gonna exhaust you yeah to do
+all of this thinking you know maybe what I need to do is get is to keep a
+diary when I was a kid maybe something like that you know if I can just jot
+these things down when they pop into my head yeah it's a fabulous idea I love
+that you came up with that all on that when I was a kid I had one in it and I
+kind of really I forgot all about that but I it was really kind of cool to have
+that that little relationship with myself yes you know yeah especially when
+you're not sure like you're testing the waters and you're not quite sure you
+fully believe that part of yourself yet yeah that self is strong enough to
+really advocate yeah that that journal sounds like a live thing I'm gonna go
+buy one today awesome that's phenomenal I love it when clients come up with their
+own homework I don't feel like an ogre assigning homework no I think this is
+really good and I think I think it's a lot easier for me to sort of speak to a
+journal before I have these kinds of conversations with my family so I love
+the organic way in which you've come up with this work if you choose to share it
+with me in next sessions I'm very open to that and if you think you still need
+to keep it private like it's working for you to keep it private then feel free to
+do that as well okay we'll play it by ear okay thanks for coming today yeah
+thank you thank you so much I'll see you next week okay
+
+
+--- TRANSCRIPT END ---
+
+Based on the transcript provided above, generate the following sections in your clinical note:
+
+**1. SOAP Note:**
+* **Subjective:** Summarize the client's reported experiences, feelings, concerns, and goals as stated during the session.
+* **Objective:** ### MODIFIED ### Describe the client's behavior and affect *as derivable from the transcript* (e.g., speech patterns, expressed emotions, therapist comments on behavior, crying if noted as sound). Omit purely visual details (appearance, eye contact, gestures) unless explicitly stated *in the transcript text*. Note any objective measures mentioned (like assessment scores).
+* **Assessment:** Provide a brief clinical assessment of the client's progress, challenges, potential diagnostic impressions (based *only* on transcript evidence and qualified appropriately), and response to interventions mentioned.
+* **Plan:** Outline the plan for future sessions, including interventions, referrals, goals, and follow-up actions discussed or implied in the session.
+
+**2. Mental Status Examination (MSE):**
+### MODIFIED ### (Note: Base all MSE observations strictly on information derivable from the transcript text. Omit purely visual details unless explicitly mentioned.)
+* **Appearance:** ### MODIFIED ### (Describe only if details are provided in transcript text, otherwise state 'Visuals not available from transcript'.)
+* **Behavior/Psychomotor Activity:** ### MODIFIED ### (Describe observed behaviors *if mentioned in the transcript*, e.g., crying sounds, restlessness described by therapist, engagement level based on dialogue.)
+* **Attitude Toward Interviewer (Therapist):** (e.g., Cooperative, guarded, open - based on interaction style in transcript).
+* **Mood:** (Client's reported mood, e.g., "anxious," "better," "sad").
+* **Affect:** (Observed emotional tone *as derivable from transcript* - e.g., reactivity, range, appropriateness based on content and any descriptions of tone/laughter/crying).
+* **Speech:** (e.g., Rate, volume, clarity - as derivable from fluent text or specific descriptions).
+* **Thought Process:** (e.g., Linear, circumstantial, tangential - based on flow of dialogue).
+* **Thought Content:** (Main themes, preoccupations, delusions, SI/HI. Include relevant quotes if appropriate).
+* **Perception:** (Hallucinations - report only if mentioned by client or therapist).
+* **Cognition:** (Orientation, Memory, Attention - report only if assessed/mentioned in transcript).
+* **Insight:** (Level of understanding regarding their situation/illness - based on client statements).
+* **Judgment:** (Decision-making ability implied by content - based on client statements).
+
+**3. Risk Assessment:**
+Analyze the transcript for any mention of risk factors or protective factors and summarize:
+* **Suicidal Ideation (SI):** (Presence/absence, details like plan, intent, means if mentioned)
+* **Homicidal Ideation (HI):** (Presence/absence, details)
+* **Self-Harm Behavior:** (Presence/absence, details)
+* **Other Risk Factors:** (e.g., substance use, hopelessness, isolation mentioned)
+* **Protective Factors:** (e.g., support system, coping skills, reasons for living mentioned)
+* **Overall Risk Level:** (Assign a level like Low, Moderate, High based *only* on transcript information, or state if insufficient info)
+* **Safety Plan Notes:** (Mention if a safety plan was discussed or updated)
+* **Note if therapist made recommendations for higher level of care, means restriction, or other explicit safety measures.**
+
+**Important Constraints:**
+* Base the entire note **strictly** on the provided transcript text.
+* **Do not infer or add any information** not explicitly present in the transcript.
+* ### NEW/MODIFIED ### **CRITICAL:** Do NOT include descriptions of visual appearance (grooming, dress), eye contact, facial expressions (smiles, tears unless noted as sounds), or gestures unless EXPLICITLY stated *in the transcript text*.
+* Maintain a **professional, objective, and neutral tone**.
+* ### MODIFIED ### If information for a specific section/sub-section is not present in the transcript, clearly state 'Not indicated in transcript' or 'Visuals not available from transcript' as appropriate.
+* Do not include any interpretations or diagnoses unless they are directly discussed, strongly evidenced within the transcript, and appropriately qualified (e.g., "consistent with," "potential").
