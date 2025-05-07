@@ -87,7 +87,7 @@ The project followed these key steps:
 ├── .gitignore                      # Standard Python gitignore
 ├── requirements.txt                # Python package requirements
 └── README.md                       # This file
-
+```
 
 ## Setup and Usage
 
