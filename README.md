@@ -66,31 +66,27 @@ The project followed these key steps:
 
 ## Repository Structure
 
+```text
 ├── data/
-│   └── transcript_cleaned.txt       # Cleaned transcript (Annabeth session)
-│   └── session_audio.mp3            # (Optional) Downloaded audio file
-│
+│   ├── transcript_cleaned.txt      # Cleaned transcript (Annabeth session)
+│   └── session_audio.mp3           # (Optional) Downloaded audio file
 ├── prompts/
-│   ├── prompt_v1.txt                # Initial prompt text
-│   └── prompt_v2.txt                # Refined prompt text
-│
+│   ├── prompt_v1.txt               # Initial prompt text
+│   └── prompt_v2.txt               # Refined prompt text
 ├── scripts/
-│   ├── 01_generate_note.py          # Python script to call Gemini API
-│   └── 02_analyze_output.py         # Script for statistical analysis (outputs comparison)
-│
+│   ├── 01_generate_note.py         # Python script to call Gemini API
+│   └── 02_analyze_output.py        # Script for statistical analysis (outputs comparison)
 ├── outputs/
-│   ├── output_v1.txt                # Clinical note from Annabeth transcript + prompt v1
-│   ├── output_v2.txt                # Clinical note from Annabeth transcript + prompt v2
-│   └── analysis_results.csv         # Console output of comparative stats (v1 vs v2) copied here
-│
+│   ├── output_v1.txt               # Clinical note from Annabeth transcript + prompt v1
+│   ├── output_v2.txt               # Clinical note from Annabeth transcript + prompt v2
+│   └── analysis_results.csv        # Console output of comparative stats (v1 vs v2) copied here
 ├── evaluation/
-│   ├── evaluation_criteria.txt      # Definition of evaluation criteria
-│   ├── evaluation_output_v1.md      # Evaluation notes for output_v1.txt
-│   └── evaluation_output_v2.md      # Evaluation notes for output_v2.txt & comparison
-│
-├── .gitignore                       # Standard Python gitignore
-├── requirements.txt                 # Python package requirements
-└── README.md                        # This file
+│   ├── evaluation_criteria.txt     # Definition of evaluation criteria
+│   ├── evaluation_output_v1.md     # Evaluation notes for output_v1.txt
+│   └── evaluation_output_v2.md     # Evaluation notes for output_v2.txt & comparison
+├── .gitignore                      # Standard Python gitignore
+├── requirements.txt                # Python package requirements
+└── README.md                       # This file
 
 
 ## Setup and Usage
