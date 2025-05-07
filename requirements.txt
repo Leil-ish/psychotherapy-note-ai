@@ -7,6 +7,7 @@ google-generativeai
 yt-dlp
 
 # For PyTorch with CUDA support (GPU acceleration for Whisper)
+# Ensure your installed CUDA version matches (e.g., cu118, cu121)
 --index-url https://download.pytorch.org/whl/cu118
 torch
 torchvision
@@ -17,6 +18,5 @@ torchaudio
 # you may need to install it manually: pip install git+https://github.com/openai/whisper.git
 openai-whisper
 
-# pandas
-# textstat
-# nltk
+# For text statistics
+textstat
