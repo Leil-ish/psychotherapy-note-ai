@@ -110,4 +110,4 @@ The project followed these key steps:
 
 This project successfully demonstrated an iterative prompt engineering workflow for generating structured clinical notes from therapy transcripts. The initial prompt (v1) produced a structurally complete note but suffered from clinically significant visual hallucinations. Through systematic evaluation against defined criteria, this issue was identified and effectively addressed in `prompt_v2` by adding specific constraints.
 
-The refined prompt (v2) successfully eliminated these hallucinations, leading to a mor
+The refined prompt (v2) successfully eliminated these hallucinations, leading to a more accurate and trustworthy note based solely on the transcript data. This was validated by both qualitative review and comparative statistical analysis (see `outputs/analysis_results.csv`). The process highlighted the critical importance of precise prompting and iterative refinement when working with LLMs for sensitive clinical applications.
